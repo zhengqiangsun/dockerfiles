@@ -7,3 +7,4 @@ RUN yum install -y unzip
 RUN yum install -y curl
 RUN yum install -y tar
 RUN yum install -y gzip
+RUN yum install -y lrzsz
